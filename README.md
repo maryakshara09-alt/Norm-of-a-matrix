@@ -5,7 +5,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm: 
-Algorithm: To Find the 1-Norm of a Matrix
+##Algorithm: To Find the 1-Norm of a Matrix
 
 Step 1:
 Import the required modules os and numpy, and set the environment variable to limit thread usage.
@@ -19,7 +19,7 @@ Compute the 1-norm of the matrix using np.linalg.norm(a, 1).
 Step 4:
 Display the result in formatted output with 2 decimal places.
 
-Algorithm: To Find the 2-Norm of a Matrix
+##Algorithm: To Find the 2-Norm of a Matrix
 
 Step 1: Import the required libraries (os and numpy) and set the environment variable to limit thread usage.
 
@@ -30,7 +30,7 @@ Step 3: Compute the 2-norm (Euclidean norm) of the array using np.linalg.norm(a,
 Step 4: Format and print the result up to 2 decimal places.
 
 
-Algorithm: To Find the Infinity-Norm of a Matrix
+##Algorithm: To Find the Infinity-Norm of a Matrix
 
 
 Step 1: Import the required libraries (os and numpy) and set the environment variable to control thread usage.
